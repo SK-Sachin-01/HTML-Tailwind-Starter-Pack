@@ -1,0 +1,27 @@
+{
+  "name": "HTML-Tailwind-Starter-Pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SK-Sachin-01/HTML-Tailwind-Starter-Pack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SK-Sachin-01/HTML-Tailwind-Starter-Pack/issues"
+  },
+  "homepage": "https://github.com/SK-Sachin-01/HTML-Tailwind-Starter-Pack#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.0.4"
+  }
+}
